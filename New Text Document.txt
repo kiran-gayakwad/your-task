@@ -1,0 +1,1 @@
+how to jump from one state to another from contoller code and template
